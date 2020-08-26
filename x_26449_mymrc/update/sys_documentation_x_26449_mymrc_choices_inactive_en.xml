@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="inactive" label="Inactive" language="en" table="x_26449_mymrc_choices">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>inactive</element>
+            <help/>
+            <hint/>
+            <label>Inactive</label>
+            <language>en</language>
+            <name>x_26449_mymrc_choices</name>
+            <plural>Inactives</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 21:20:13</sys_created_on>
+            <sys_id>814b43a02f061010294d5e492799b68b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Inactive</sys_name>
+            <sys_package display_value="myMRC" source="x_26449_mymrc">aa9de9a02f021010294d5e492799b6a5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="myMRC">aa9de9a02f021010294d5e492799b6a5</sys_scope>
+            <sys_update_name>sys_documentation_x_26449_mymrc_choices_inactive_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 21:20:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

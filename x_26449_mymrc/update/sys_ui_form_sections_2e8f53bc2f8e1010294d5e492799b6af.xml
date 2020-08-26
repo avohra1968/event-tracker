@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="2e8f53bc2f8e1010294d5e492799b6af" sys_domain="global" table="x_26449_mymrc_request_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-14 17:27:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e68f1fbc2f8e1010294d5e492799b6aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_26449_mymrc_request_task" name="x_26449_mymrc_request_task" sys_domain="global" view="Default view">2e8f53bc2f8e1010294d5e492799b6af</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_26449_mymrc_request_task" sys_domain="global" view="Default view">6e8f1fbc2f8e1010294d5e492799b6a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-14 17:27:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-14 17:27:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aa8f1fbc2f8e1010294d5e492799b6ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_26449_mymrc_request_task" name="x_26449_mymrc_request_task" sys_domain="global" view="Default view">2e8f53bc2f8e1010294d5e492799b6af</sys_ui_form>
+            <sys_ui_section caption="Activity Log" display_value="Activity Log" name="x_26449_mymrc_request_task" sys_domain="global" view="Default view">ea8f1fbc2f8e1010294d5e492799b6aa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-14 17:27:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-14 17:27:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>268f1fbc2f8e1010294d5e492799b6a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_26449_mymrc_request_task" name="x_26449_mymrc_request_task" sys_domain="global" view="Default view">2e8f53bc2f8e1010294d5e492799b6af</sys_ui_form>
+            <sys_ui_section caption="Request Item Order Form" display_value="Request Item Order Form" name="x_26449_mymrc_request_task" sys_domain="global" view="Default view">2a8f53bc2f8e1010294d5e492799b6b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-14 17:27:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>67eb9bc52f0a5010294d5e492799b6d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_26449_mymrc_request_task" name="x_26449_mymrc_request_task" sys_domain="global" view="Default view">2e8f53bc2f8e1010294d5e492799b6af</sys_ui_form>
+            <sys_ui_section caption="Requested For Contact Information" display_value="Requested For Contact Information" name="x_26449_mymrc_request_task" sys_domain="global" view="Default view">a3eb9bc52f0a5010294d5e492799b6d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:50:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_26449_mymrc_request_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-14 17:27:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e8f53bc2f8e1010294d5e492799b6af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_26449_mymrc_request_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="myMRC" source="x_26449_mymrc">aa9de9a02f021010294d5e492799b6a5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="myMRC">aa9de9a02f021010294d5e492799b6a5</sys_scope>
+            <sys_update_name>sys_ui_form_sections_2e8f53bc2f8e1010294d5e492799b6af</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-14 17:27:17</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

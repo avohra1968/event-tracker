@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Choices" max_length="40" name="x_26449_mymrc_choices" sizeclass="27" type="collection">
+        <element label="Depenedent Value" max_length="100" name="depenedent_value" type="string"/>
+        <element label="Element" max_length="80" name="element" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Inactive" max_length="40" name="inactive" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Item" max_length="32" name="item" reference="sc_cat_item_producer" reference_qual="sys_scope=aa9de9a02f021010294d5e492799b6a5^EQ" reference_qual_condition="sys_scope=aa9de9a02f021010294d5e492799b6a5^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Label" mandatory="true" max_length="100" name="label" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sequence" max_length="40" name="sequence" type="integer"/>
+        <element label="Value" max_length="4000" name="value" type="string"/>
+        <index name="index">
+            <element name="item"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Request Item Order Form" section_id="2a8f53bc2f8e1010294d5e492799b6b2" sys_domain="global" table="x_26449_mymrc_request_task" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_item.request_title</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:42:30</sys_created_on>
+            <sys_id>b53a9b452f0a5010294d5e492799b655</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Request Item Order Form" display_value="Request Item Order Form" name="x_26449_mymrc_request_task" sys_domain="global" view="Default view">2a8f53bc2f8e1010294d5e492799b6b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:42:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_item.request_description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:42:30</sys_created_on>
+            <sys_id>3d3a9b452f0a5010294d5e492799b655</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Request Item Order Form" display_value="Request Item Order Form" name="x_26449_mymrc_request_task" sys_domain="global" view="Default view">2a8f53bc2f8e1010294d5e492799b6b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:42:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_item.federal_government</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:42:30</sys_created_on>
+            <sys_id>bd3a9b452f0a5010294d5e492799b655</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Request Item Order Form" display_value="Request Item Order Form" name="x_26449_mymrc_request_task" sys_domain="global" view="Default view">2a8f53bc2f8e1010294d5e492799b6b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:42:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_item.request_type</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:42:30</sys_created_on>
+            <sys_id>313a9b452f0a5010294d5e492799b656</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Request Item Order Form" display_value="Request Item Order Form" name="x_26449_mymrc_request_task" sys_domain="global" view="Default view">2a8f53bc2f8e1010294d5e492799b6b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:42:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Request Item Order Form</caption>
+            <header>false</header>
+            <name>x_26449_mymrc_request_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-14 17:27:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a8f53bc2f8e1010294d5e492799b6b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Request Item Order Form</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="myMRC" source="x_26449_mymrc">aa9de9a02f021010294d5e492799b6a5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="myMRC">aa9de9a02f021010294d5e492799b6a5</sys_scope>
+            <sys_update_name>sys_ui_section_2a8f53bc2f8e1010294d5e492799b6b2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-14 17:27:17</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

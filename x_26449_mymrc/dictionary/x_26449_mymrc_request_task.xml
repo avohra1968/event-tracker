@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_26449_mymrc_requested_items" label="Request Task" max_length="40" name="x_26449_mymrc_request_task" sizeclass="5" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Request Item" max_length="32" name="request_item" reference="x_26449_mymrc_requested_items" type="reference"/>
+        <index name="index">
+            <element name="request_item"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_26449_mymrc_request_task">x_26449_mymrc_request_task</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>RTSK</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-14 17:24:10</sys_created_on>
+        <sys_id>41de17bc2f8e1010294d5e492799b69a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RTSK</sys_name>
+        <sys_package display_value="myMRC" source="x_26449_mymrc">aa9de9a02f021010294d5e492799b6a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="myMRC">aa9de9a02f021010294d5e492799b6a5</sys_scope>
+        <sys_update_name>sys_number_41de17bc2f8e1010294d5e492799b69a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-14 17:24:10</sys_updated_on>
+    </sys_number>
+</record_update>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="approval" table="x_26449_mymrc_requested_items" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Yet Requested</label>
+            <language>en</language>
+            <name>x_26449_mymrc_requested_items</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 18:11:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fcff1aa42f821010294d5e492799b678</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 18:11:15</sys_updated_on>
+            <value>not requested</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Requested</label>
+            <language>en</language>
+            <name>x_26449_mymrc_requested_items</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 18:11:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f910a6a42f821010294d5e492799b649</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 18:11:35</sys_updated_on>
+            <value>requested</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_26449_mymrc_requested_items</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 18:11:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e20a2a42f821010294d5e492799b60f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 18:11:53</sys_updated_on>
+            <value>approved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rejected</label>
+            <language>en</language>
+            <name>x_26449_mymrc_requested_items</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 18:12:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9d30a2e42f821010294d5e492799b6b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 18:12:06</sys_updated_on>
+            <value>rejected</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cancelled</label>
+            <language>en</language>
+            <name>x_26449_mymrc_requested_items</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-14 19:40:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9bedb3302f025010294d5e492799b665</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-14 19:40:02</sys_updated_on>
+            <value>cancelled</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No Longer Required</label>
+            <language>en</language>
+            <name>x_26449_mymrc_requested_items</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-14 19:40:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>290eb7302f025010294d5e492799b6b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-14 19:40:28</sys_updated_on>
+            <value>not_required</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <name>x_26449_mymrc_requested_items</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 18:11:15</sys_created_on>
+            <sys_id>4900a6a42f821010294d5e492799b646</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>approval</sys_name>
+            <sys_package display_value="myMRC" source="x_26449_mymrc">aa9de9a02f021010294d5e492799b6a5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="myMRC">aa9de9a02f021010294d5e492799b6a5</sys_scope>
+            <sys_update_name>sys_choice_x_26449_mymrc_requested_items_approval</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 18:11:15</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="myMRC">aa9de9a02f021010294d5e492799b6a5</application>
+        <file_path/>
+        <instance_id>29d7d50ddb07f3400b9d21c405961929</instance_id>
+        <instance_name>dev90305</instance_name>
+        <name>sys_choice_x_26449_mymrc_requested_items_approval</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="approval" table="x_26449_mymrc_requested_items" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>approval</element><hint/><inactive>false</inactive><label>Not Yet Requested</label><language>en</language><name>x_26449_mymrc_requested_items</name><sequence>0</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-13 18:11:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fcff1aa42f821010294d5e492799b678</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-13 18:11:15</sys_updated_on><value>not requested</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>approval</element><hint/><inactive>false</inactive><label>Requested</label><language>en</language><name>x_26449_mymrc_requested_items</name><sequence>1</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-13 18:11:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f910a6a42f821010294d5e492799b649</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-13 18:11:35</sys_updated_on><value>requested</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>approval</element><hint/><inactive>false</inactive><label>Approved</label><language>en</language><name>x_26449_mymrc_requested_items</name><sequence>2</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-13 18:11:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4e20a2a42f821010294d5e492799b60f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-13 18:11:53</sys_updated_on><value>approved</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>approval</element><hint/><inactive>false</inactive><label>Rejected</label><language>en</language><name>x_26449_mymrc_requested_items</name><sequence>3</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-13 18:12:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9d30a2e42f821010294d5e492799b6b0</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-13 18:12:06</sys_updated_on><value>rejected</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>approval</element><hint/><inactive>false</inactive><label>Cancelled</label><language>en</language><name>x_26449_mymrc_requested_items</name><sequence>4</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-14 19:40:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9bedb3302f025010294d5e492799b665</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-14 19:40:02</sys_updated_on><value>cancelled</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>approval</element><hint/><inactive>false</inactive><label>No Longer Required</label><language>en</language><name>x_26449_mymrc_requested_items</name><sequence>5</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-14 19:40:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>290eb7302f025010294d5e492799b6b6</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-14 19:40:28</sys_updated_on><value>not_required</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>approval</element><name>x_26449_mymrc_requested_items</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-13 18:11:15</sys_created_on><sys_id>4900a6a42f821010294d5e492799b646</sys_id><sys_mod_count>0</sys_mod_count><sys_name>approval</sys_name><sys_package display_value="myMRC" source="x_26449_mymrc">aa9de9a02f021010294d5e492799b6a5</sys_package><sys_policy/><sys_scope display_value="myMRC">aa9de9a02f021010294d5e492799b6a5</sys_scope><sys_update_name>sys_choice_x_26449_mymrc_requested_items_approval</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-13 18:11:15</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-1568146426</payload_hash>
+        <record_name>Requested Items.Approval</record_name>
+        <reverted_from/>
+        <source>2a9de9a02f021010294d5e492799b6a7</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-14 19:40:28</sys_created_on>
+        <sys_id>6d0eb7302f025010294d5e492799b6b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1734ed7bfa30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-14 19:40:28</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>e50eb7309902501080254bc43410f2b8</update_guid>
+        <update_guid_history>e50eb7309902501080254bc43410f2b8:-1568146426,13edf3b0f602501011987b32aa6965bc:1646252043,d930a2e485821010641b8df305d81ab2:252557659,8a20a2a4728210103ee1f00963770311:-2119666236,3910a6a4f282101004bec66017c45a4b:-156732708,8d00a6a4548210105367f0e00eb79647:1670914049</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 20:13:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>4900a6a42f821010294d5e492799b646</sys_id>
+        <sys_metadata>4900a6a42f821010294d5e492799b646</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>approval</sys_name>
+        <sys_package display_value="myMRC" source="x_26449_mymrc">aa9de9a02f021010294d5e492799b6a5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="myMRC">aa9de9a02f021010294d5e492799b6a5</sys_scope>
+        <sys_scope_delete display_value="">5fec436adaab45ada731e77c5fb956e9</sys_scope_delete>
+        <sys_update_name>sys_choice_x_26449_mymrc_requested_items_approval</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_26449_mymrc_requested_items_approval">6d0eb7302f025010294d5e492799b6b8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 20:13:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

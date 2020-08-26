@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Requested Items" max_length="40" name="x_26449_mymrc_requested_items" sizeclass="16" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="not requested" label="Approval" max_length="40" name="approval" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Not Yet Requested" sequence="0" value="not requested"/>
+                <element inactive_on_update="false" label="Requested" sequence="1" value="requested"/>
+                <element inactive_on_update="false" label="Approved" sequence="2" value="approved"/>
+                <element inactive_on_update="false" label="Rejected" sequence="3" value="rejected"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="4" value="cancelled"/>
+                <element inactive_on_update="false" label="No Longer Required" sequence="5" value="not_required"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" dependent="assignment_group" dependent_on_field="assignment_group" label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Assignment Group" max_length="32" name="assignment_group" reference="sys_user_group" type="reference"/>
+        <element label="Closed" max_length="40" name="closed_at" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Closed By" max_length="32" name="closed_by" reference="sys_user" type="reference"/>
+        <element label="Due Date" max_length="40" name="due_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Is this request related to the Federal Government?" max_length="40" name="federal_government" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Item" max_length="200" name="item" reference="sc_cat_item_producer" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:gs.nowDateTime()" dynamic_default_value="79cb83a85f220100a9ad2572f2b4773c" label="Opened" max_length="40" name="opened_at" type="glide_date_time" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Requested By" max_length="32" name="requested_by" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Requested For" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <element label="Request Description" max_length="2000" name="request_description" type="string"/>
+        <element label="Request Title" max_length="100" name="request_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice_field="type" choice_table="cmdb_ci_acc" label="Request Type" max_length="4000" name="request_type" reference="x_26449_mymrc_choices" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="State" max_length="40" name="state" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="Open" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Work In Progress" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Pending" sequence="2" value="-5"/>
+                <element inactive_on_update="false" label="Closed Complete" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="Closed Cancelled" sequence="4" value="8"/>
+                <element inactive_on_update="false" label="Closed Incomplete" sequence="5" value="4"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Work Notes" max_length="4000" name="work_notes" type="journal"/>
+        <index name="index">
+            <element name="requested_by"/>
+        </index>
+        <index name="index2">
+            <element name="assignment_group"/>
+        </index>
+        <index name="index3">
+            <element name="requested_for"/>
+        </index>
+        <index name="index4">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index5">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index6">
+            <element name="closed_by"/>
+        </index>
+    </element>
+</database>

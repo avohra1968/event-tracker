@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Request Task</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_26449_mymrc_request_task</name>
+        <number_ref display_value="RTSK">41de17bc2f8e1010294d5e492799b69a</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Requested Items" name="x_26449_mymrc_requested_items">a398fde82f021010294d5e492799b696</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-14 17:24:09</sys_created_on>
+        <sys_id>25fc537c2f8e1010294d5e492799b6a5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Request Task</sys_name>
+        <sys_package display_value="myMRC" source="x_26449_mymrc">aa9de9a02f021010294d5e492799b6a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="myMRC">aa9de9a02f021010294d5e492799b6a5</sys_scope>
+        <sys_update_name>sys_db_object_25fc537c2f8e1010294d5e492799b6a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-14 17:24:11</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_26449_mymrc.requested_items_user" name="x_26449_mymrc.requested_items_user">d9093dac2f021010294d5e492799b682</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

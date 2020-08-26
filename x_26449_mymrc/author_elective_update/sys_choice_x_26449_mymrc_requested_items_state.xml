@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="state" table="x_26449_mymrc_requested_items" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_26449_mymrc_requested_items</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 18:08:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff5f92a42f821010294d5e492799b63a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 18:08:27</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work In Progress</label>
+            <language>en</language>
+            <name>x_26449_mymrc_requested_items</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 18:08:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b76f92a42f821010294d5e492799b63e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 18:08:43</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending</label>
+            <language>en</language>
+            <name>x_26449_mymrc_requested_items</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 18:08:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b2f1aa42f821010294d5e492799b6b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 18:08:07</sys_updated_on>
+            <value>-5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Complete</label>
+            <language>en</language>
+            <name>x_26449_mymrc_requested_items</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 18:09:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf7f12a42f821010294d5e492799b65c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 18:09:00</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Cancelled</label>
+            <language>en</language>
+            <name>x_26449_mymrc_requested_items</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 18:09:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e19f96a42f821010294d5e492799b6ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 18:09:23</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Incomplete</label>
+            <language>en</language>
+            <name>x_26449_mymrc_requested_items</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 18:09:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fcaf92a42f821010294d5e492799b641</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 18:09:37</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_26449_mymrc_requested_items</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 18:08:07</sys_created_on>
+            <sys_id>0f4f56a42f821010294d5e492799b6ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="myMRC" source="x_26449_mymrc">aa9de9a02f021010294d5e492799b6a5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="myMRC">aa9de9a02f021010294d5e492799b6a5</sys_scope>
+            <sys_update_name>sys_choice_x_26449_mymrc_requested_items_state</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 18:08:07</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="myMRC">aa9de9a02f021010294d5e492799b6a5</application>
+        <file_path/>
+        <instance_id>29d7d50ddb07f3400b9d21c405961929</instance_id>
+        <instance_name>dev90305</instance_name>
+        <name>sys_choice_x_26449_mymrc_requested_items_state</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="state" table="x_26449_mymrc_requested_items" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Open</label><language>en</language><name>x_26449_mymrc_requested_items</name><sequence>0</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-13 18:08:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ff5f92a42f821010294d5e492799b63a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-13 18:08:27</sys_updated_on><value>1</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Work In Progress</label><language>en</language><name>x_26449_mymrc_requested_items</name><sequence>1</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-13 18:08:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b76f92a42f821010294d5e492799b63e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-13 18:08:43</sys_updated_on><value>2</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Pending</label><language>en</language><name>x_26449_mymrc_requested_items</name><sequence>2</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-13 18:08:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4b2f1aa42f821010294d5e492799b6b2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-13 18:08:07</sys_updated_on><value>-5</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Closed Complete</label><language>en</language><name>x_26449_mymrc_requested_items</name><sequence>3</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-13 18:09:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bf7f12a42f821010294d5e492799b65c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-13 18:09:00</sys_updated_on><value>3</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Closed Cancelled</label><language>en</language><name>x_26449_mymrc_requested_items</name><sequence>4</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-13 18:09:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e19f96a42f821010294d5e492799b6ce</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-13 18:09:23</sys_updated_on><value>8</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Closed Incomplete</label><language>en</language><name>x_26449_mymrc_requested_items</name><sequence>5</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-13 18:09:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fcaf92a42f821010294d5e492799b641</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-13 18:09:37</sys_updated_on><value>4</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>state</element><name>x_26449_mymrc_requested_items</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-13 18:08:07</sys_created_on><sys_id>0f4f56a42f821010294d5e492799b6ed</sys_id><sys_mod_count>0</sys_mod_count><sys_name>state</sys_name><sys_package display_value="myMRC" source="x_26449_mymrc">aa9de9a02f021010294d5e492799b6a5</sys_package><sys_policy/><sys_scope display_value="myMRC">aa9de9a02f021010294d5e492799b6a5</sys_scope><sys_update_name>sys_choice_x_26449_mymrc_requested_items_state</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-13 18:08:07</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-1609381528</payload_hash>
+        <record_name>Requested Items.State</record_name>
+        <reverted_from/>
+        <source>2a9de9a02f021010294d5e492799b6a7</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-13 18:09:37</sys_created_on>
+        <sys_id>74af5ea42f821010294d5e492799b664</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173495e33fb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-13 18:09:37</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>fcaf5ea468821010b06637e7b99a5163</update_guid>
+        <update_guid_history>fcaf5ea468821010b06637e7b99a5163:-1609381528,219f96a4b28210102de61cee3ccc00d0:-1864232759,7f7fdaa4e4821010875b9d05fb37a3ee:-961859522,f36f92a43d8210100efc117e9de73540:2035265671,3f5f92a486821010bcb9bd4e31a4bf3c:1429845565,c74f56a4c5821010c6da28cdd29fb5ef:-1302008968</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 20:13:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>0f4f56a42f821010294d5e492799b6ed</sys_id>
+        <sys_metadata>0f4f56a42f821010294d5e492799b6ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="myMRC" source="x_26449_mymrc">aa9de9a02f021010294d5e492799b6a5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="myMRC">aa9de9a02f021010294d5e492799b6a5</sys_scope>
+        <sys_scope_delete display_value="">5fec436adaab45ada731e77c5fb956e9</sys_scope_delete>
+        <sys_update_name>sys_choice_x_26449_mymrc_requested_items_state</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_26449_mymrc_requested_items_state">74af5ea42f821010294d5e492799b664</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 20:13:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

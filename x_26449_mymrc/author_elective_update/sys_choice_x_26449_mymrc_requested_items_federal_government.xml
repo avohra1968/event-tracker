@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="federal_government" table="x_26449_mymrc_requested_items" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>federal_government</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_26449_mymrc_requested_items</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 21:03:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d678bec2fc21010294d5e492799b669</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 21:03:58</sys_updated_on>
+            <value>yes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>federal_government</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_26449_mymrc_requested_items</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 21:04:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b974f682fc21010294d5e492799b6b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 21:04:16</sys_updated_on>
+            <value>no</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>federal_government</element>
+            <name>x_26449_mymrc_requested_items</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 21:03:58</sys_created_on>
+            <sys_id>36870bec2fc21010294d5e492799b6c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>federal_government</sys_name>
+            <sys_package display_value="myMRC" source="x_26449_mymrc">aa9de9a02f021010294d5e492799b6a5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="myMRC">aa9de9a02f021010294d5e492799b6a5</sys_scope>
+            <sys_update_name>sys_choice_x_26449_mymrc_requested_items_federal_government</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 21:03:58</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="myMRC">aa9de9a02f021010294d5e492799b6a5</application>
+        <file_path/>
+        <instance_id>29d7d50ddb07f3400b9d21c405961929</instance_id>
+        <instance_name>dev90305</instance_name>
+        <name>sys_choice_x_26449_mymrc_requested_items_federal_government</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="federal_government" table="x_26449_mymrc_requested_items" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>federal_government</element><hint/><inactive>false</inactive><label>Yes</label><language>en</language><name>x_26449_mymrc_requested_items</name><sequence>0</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-13 21:03:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6d678bec2fc21010294d5e492799b669</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-13 21:03:58</sys_updated_on><value>yes</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>federal_government</element><hint/><inactive>false</inactive><label>No</label><language>en</language><name>x_26449_mymrc_requested_items</name><sequence>1</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-13 21:04:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9b974f682fc21010294d5e492799b6b3</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-13 21:04:16</sys_updated_on><value>no</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>federal_government</element><name>x_26449_mymrc_requested_items</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-13 21:03:58</sys_created_on><sys_id>36870bec2fc21010294d5e492799b6c8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>federal_government</sys_name><sys_package display_value="myMRC" source="x_26449_mymrc">aa9de9a02f021010294d5e492799b6a5</sys_package><sys_policy/><sys_scope display_value="myMRC">aa9de9a02f021010294d5e492799b6a5</sys_scope><sys_update_name>sys_choice_x_26449_mymrc_requested_items_federal_government</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-13 21:03:58</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1600624652</payload_hash>
+        <record_name>Requested Items.Is this request related to the Federal Government?</record_name>
+        <reverted_from/>
+        <source>2a9de9a02f021010294d5e492799b6a7</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-13 21:04:16</sys_created_on>
+        <sys_id>5f974f682fc21010294d5e492799b6b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17349fe190b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-13 21:04:16</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>d7974f6801c21010ea7e23db65034eb5</update_guid>
+        <update_guid_history>d7974f6801c21010ea7e23db65034eb5:1600624652,fe870bec63c210104040352f225130c9:970662149</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 20:13:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>36870bec2fc21010294d5e492799b6c8</sys_id>
+        <sys_metadata>36870bec2fc21010294d5e492799b6c8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>federal_government</sys_name>
+        <sys_package display_value="myMRC" source="x_26449_mymrc">aa9de9a02f021010294d5e492799b6a5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="myMRC">aa9de9a02f021010294d5e492799b6a5</sys_scope>
+        <sys_scope_delete display_value="">5fec436adaab45ada731e77c5fb956e9</sys_scope_delete>
+        <sys_update_name>sys_choice_x_26449_mymrc_requested_items_federal_government</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_26449_mymrc_requested_items_federal_government">5f974f682fc21010294d5e492799b6b5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 20:13:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="MyMRC Links">99093dac2f021010294d5e492799b68e</application>
+        <filter/>
+        <name>Requested Items</name>
+        <order>10</order>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_26449_mymrc.requested_items_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-13 15:20:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>91093dac2f021010294d5e492799b691</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Requested Items</sys_name>
+        <sys_package display_value="myMRC" source="x_26449_mymrc">aa9de9a02f021010294d5e492799b6a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="myMRC">aa9de9a02f021010294d5e492799b6a5</sys_scope>
+        <sys_update_name>sys_ui_module_91093dac2f021010294d5e492799b691</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-15 11:57:50</sys_updated_on>
+        <table>x_26449_mymrc_requested_items</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
